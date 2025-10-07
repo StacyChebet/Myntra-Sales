@@ -36,11 +36,11 @@ This project presents an Exploratory Data Analysis (EDA) of fashion product data
 
 - Visualize insights using Power BI dashboards
 
-## 🛠Tools Used
-These tools did the heavy lifting while I binged data like a good series:
-- 🐍Python - My ride-or-die for all things data
-- ⛅Google Colab - The cozy corner where all the magic happens
-- 🐼Pandas - The Marie Kondo of tabular data
-- 🔢Numpy - Crunching numbers faster than you can say "array"
-- 📊Matplotlib - Where your data becomes visual poetry...and sometimes pie (still not edible)
-- 🌊Seaborn - Matplotlib's artsy cousin who studied design in Paris
+## **🧰 Tools & Technologies**
+- **Python:** Data cleaning, preprocessing, and exploratory data analysis
+
+  - Libraries used: `pandas`, `numpy`, `matplotlib`, `seaborn`
+
+- **Power BI:** Interactive data visualization and dashboard creation
+
+- **Colab Notebook / VS Code:** For data exploration and visualization scripting
