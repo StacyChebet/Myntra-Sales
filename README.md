@@ -1,12 +1,15 @@
 ![image](./images/myntra.png)
 
-# 🍿Netflix & Analyze: EDA on Netflix Data for 2021 
+# 🛍️ Myntra Fashion Products EDA
 
-Welcome to my data playground! This project dives into Netflix's 2021 catalog to explore what makes the platform tick - what kinds of shows are streaming, where they're from, and who's behind the scenes. Think of it as binge-watching with charts. 
+This project presents an Exploratory Data Analysis (EDA) of fashion product data scraped from Myntra, one of India’s largest e-commerce fashion platforms. The goal of this project is to uncover insights about pricing trends, brand performance, discount patterns, and customer preferences in the online fashion retail space.
 
-## 📽Dataset Details
-- **Source:** [Netflix - Exploratory Data Analysis](https://www.kaggle.com/datasets/swatikhedekar/exploratory-data-analysis-on-netflix-data/data)
-- **File Used:** `netflix_titles_2021.csv`
+## 📁 Dataset Overview
+- **Source:** [Myntra Sales Dataset](https://www.kaggle.com/datasets/skmewati/myntra-sales-dataset)
+- **File Used:** `myntra_dataset_ByScraping.csv`
+- **File Size:** ~3.37 MB
+- **Total Rows:** 52,120
+- **Total Columns:** 8
 
 ### **Columns Include:**
 - `type`: Is it a movie or a TV Show?
